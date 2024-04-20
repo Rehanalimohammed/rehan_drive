@@ -7,4 +7,10 @@ image{
     border:2px solid black;
     display:inline;
 }
+h1{
+    color: red;
+}
+p{
+    color:blue;
+}
 
