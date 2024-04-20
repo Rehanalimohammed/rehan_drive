@@ -2,8 +2,9 @@ body{
     background-color:#F9EFDB;
 }
 img{
-    height:200px;
-    width:200px;
+    height:100px;
+    width:100px;
+    border:2px solid black;
     display:flex;
 }
 
