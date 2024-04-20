@@ -1,3 +1,9 @@
 body{
     background-color:#F9EFDB;
 }
+img{
+    height:200px;
+    width:200px;
+    display:flex;
+}
+
