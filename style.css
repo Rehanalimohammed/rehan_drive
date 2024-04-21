@@ -4,9 +4,9 @@ body{
 
 .image{
     height:100%;
-    width:100%;
-    border:2px solid black;
-    display:flex;
+    width: fit-content;
+    border: 2px solid black;
+    display: flex;
 }
 h1{
     color: red;
@@ -14,14 +14,23 @@ h1{
 }
 h2{ 
     color:green;
+    text-align:center;
 }
 h3{
     color:blue;
+    text-align:center;
 }
 h4{
     color:pink;
+    text-align:center;
 }
 p{ 
     color:black;
+}
+.menu{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
 }
 
